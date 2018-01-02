@@ -1,0 +1,92 @@
+body
+
+}
+@charset "utf-8";
+/* CSS Document */
+
+body,td,th {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #000;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	text-decoration: none;
+	color: #F60;
+}
+a:visited {
+	text-decoration: none;
+	color: #F60;
+}
+a:hover {
+	text-decoration: none;
+	color: #6C0;
+}
+a:active {
+	text-decoration: none;
+	color: #0C0;
+}
+a {
+	font-size: 12px;
+}
+
+.imagetable_th {
+	background:#b5cfd2 url('../img/cell-blue.jpg');
+	border-width: 1px;
+	padding: 5px;
+	border-style: solid;
+	border-color: #999999;
+}
+.imagetable {
+	background:#dcddc0 url('../img/cell-grey.jpg');
+	border-width: 1px;
+	padding: 5px;
+	border-style: solid;
+	border-color: #999999;
+}
+
+.input,.textarea{		
+		width:230px;
+		border:1px solid #999;
+		padding:3px;
+}		
+.tdblock{
+width:130px;
+background:url(../img/form_top.gif) no-repeat 0 0;
+padding:3px;
+border:1px solid #ddd;
+border-left-color:#FFFFFF;
+border-top-color:#FFFFFF;
+background:transperent;
+}
+.footer{font-size:12px; color:#666666; text-align:center}
+.sucmsg{border:#006600 1px solid; background:#CDFFAE; padding:6px; width:100%}
+.errmsg{border:#F00 1px solid; background:#FFEBC6; padding:6px; width:100%}
+.infomsg{border:#333 1px solid; background:#CCC; padding:6px; width:100%}
+.submit{color:#060; background-color:#B5FAA9; border:#030 1px solid; padding:0px; font-weight:bold; cursor:pointer}
+.submit_orange{color:#F00; background-color:#FDE6C1; border:red 1px solid; padding:3px; font-weight:bold; cursor:pointer}
+legend {
+    background-color: #fff;
+    border-top: 1px solid #c8c8c8;
+    border-right: 1px solid #c8c8c8;
+    border-left: 1px solid #c8c8c8;
+    font-size: 1.2em;
+    padding: 0px 7px;
+	left:35px;
+}
+
+Related Searches:
+Small Business Grants
+Small Business Association
+Business Association
+Business Grants
+Amway And Quixtar
+Small Business Advice
+Small Business Resources
+Truth About Amway
+Minority Small Business Grants
